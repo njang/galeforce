@@ -10,7 +10,7 @@
 pushd $(dirname "$0")
 source ./common.sh
 
-BOARD="gale"
+BOARD="whirlwind"
 IMAGE_METADATA_URL="https://dl.google.com/dl/edgedl/chromeos/recovery/onhub_recovery.json"
 DEV_KEYS_URL="https://chromium.googlesource.com/chromiumos/platform/vboot_reference/+archive/master/tests/devkeys.tar.gz"
 
